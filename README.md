@@ -1,14 +1,22 @@
 # DataEngineering-Internship
 👋 Welcome to my 3-month internship at ByteWise Limited as a Data Engineering intern.Throughout the internship, I worked on a diverse range of tasks that helped me develop a strong grasp of Data Engineering principles.It reflects the culmination of my internship journey, showcasing the skills I acquired in Data Engineering ✌️.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Technologies and Tools Used](#technologies-and-tools-used)
+- [Folder Structure](#folder-structure)
+- [Project](#project)
+- [Results and Achievements](#results-and-achievements)
+- [Conclusion](#conclusion)
 
 
-
-
+<a name="project-overview"></a>
 ## 🌟 Project Overview
 
 During the internship, I worked on a series of tasks assigned by our lead to gain a strong understanding of Data Engineering concepts and practices. The tasks coveres all the steps from beignning to the end to learn Data Engineering, enabling me to develop practical skills and knowledge in the field.✨
 
+<a name="technologies-and-tools-used"></a>
 ## 🚀 Technologies and Tools Used
 
 #### Programming Languages:
@@ -35,6 +43,7 @@ During the internship, I worked on a series of tasks assigned by our lead to gai
     <img width="25%" src="https://github.com/Mariam262/DataEngineering-Internship/assets/111905121/2ca9d655-d174-4c09-be4a-d70985a52f1c">
 </p>
 
+<a name="folder-structure"></a>
 ## 📂 Folder Structure
 
 The repository is organized into folders, each representing a specific task assigned during the internship. Here's an overview of the folders and their contents:
@@ -52,8 +61,8 @@ fundamentals of Structured Query Language (SQL) and Python.
 * Tables
 * Views
 * Analysis
--Data Ingestion – CSV, JSON ,Multiple Files
--Azure Data Factory
+- Data Ingestion – CSV, JSON ,Multiple Files
+- Azure Data Factory
 
 ➡️ `Month 3`: During this Month we have enfolded all the Cloud services and deep knowledge of each Cloud Provider:
 1. #### AWS Services
@@ -75,9 +84,28 @@ fundamentals of Structured Query Language (SQL) and Python.
 </p>
 
 3.  #### Slowly Changing Dimensions (SCD)
-- SCD Type 1
-- SCD Type 2
-- SCD Type 
+    - Sound knowledege of types of SCD's as mention below and pratciced SCD Type II on any dataset. 
+👉 SCD Type 1
+👉 SCD Type 2
+👉 SCD Type 3
+
+<a name="project"></a>
+## 💥 Project
+The project was for a client with a social media app, who requires a comprehensive solution architecture for cloud-based data management. We were responsible for 
+👉 Providing a cloud platform  
+👉 Devise a comprehensive end-to-end solution  
+👉 Conduct a thorough cost analysis for the project.
+
+<a name="results-and-achievements"></a>
+## 🏆 Results and Achievements
+
+Throughout the internship, I successfully completed all the assigned tasks, gaining valuable experience and insights into Data Engineering practices.
+
+<a name="conclusion"></a>
+## ✔️ Conclusion
+Feel free to explore the repository and its tasks to get a comprehensive understanding of the project and my capabilities in Data Engineering.
+
+
    
 
 
