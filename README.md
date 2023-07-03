@@ -91,7 +91,7 @@ fundamentals of Structured Query Language (SQL) and Python.
 
 <a name="project"></a>
 ## 💥 Project
-The project was for a client with a social media app, who requires a comprehensive solution architecture for cloud-based data management. We were responsible for 
+The project was for a client with a social media app, who requires a comprehensive solution architecture for cloud-based data management. I did the following in my project,
 👉 Providing a cloud platform  
 👉 Devise a comprehensive end-to-end solution  
 👉 Conduct a thorough cost analysis for the project.
